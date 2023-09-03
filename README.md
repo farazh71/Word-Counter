@@ -1,0 +1,1 @@
+# This is a simple word and character counter in js.
